@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "twitter-analytics"
+    }
+  },
+  "defaultProject": "twitter-analytics",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
